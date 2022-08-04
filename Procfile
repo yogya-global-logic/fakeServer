@@ -1,1 +1,1 @@
-web: npm start
+web: npx json-server -p 3001 -w db.json
