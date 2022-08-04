@@ -1,0 +1,88 @@
+{
+  "empDetails": [
+    {
+      "fname": "thor",
+      "phone": "1234",
+      "email": "thor@gmail.com",
+      "city": "thor city",
+      "id": 1
+    },
+    {
+      "fname": "carry",
+      "phone": "8008",
+      "email": "carry@gmail.com",
+      "city": "delhi2",
+      "id": 2
+    },
+    {
+      "fname": "harry",
+      "phone": "1234",
+      "email": "new@gmail.com",
+      "city": "ironcity",
+      "id": 1658731189251
+    },
+    {
+      "fname": "henry",
+      "phone": "1234",
+      "email": "henry@gmail.com",
+      "city": "delhi",
+      "id": 1658733412870
+    },
+    {
+      "fname": "ironman",
+      "phone": "4444",
+      "email": "ironemail",
+      "city": "ironcity",
+      "id": 1658733656654
+    },
+    {
+      "fname": "harry2",
+      "phone": "2222222",
+      "email": "new@gmail.com",
+      "city": "ironcity",
+      "id": 1658836329036
+    },
+    {
+      "fname": "harry",
+      "phone": "990909",
+      "email": "new@gmail.com",
+      "city": "newcity",
+      "id": 1658836354862
+    },
+    {
+      "fname": "pr",
+      "phone": "999",
+      "email": "edd@gmail.com",
+      "city": "newdata",
+      "id": 1658836354863
+    },
+    {
+      "fname": "carry",
+      "phone": "100",
+      "email": "carry@gmail.com",
+      "city": "delhi2",
+      "id": 1658836354864
+    },
+    {
+      "fname": "harry",
+      "phone": "66666",
+      "email": "new@gmail.com",
+      "city": "ironcity",
+      "id": 1658836354865
+    },
+    {
+      "fname": "thanos",
+      "phone": "000",
+      "email": "thanosemail",
+      "city": "titan",
+      "id": 1658836354866
+    },
+    {
+      "fname": "",
+      "phone": "",
+      "email": "",
+      "city": "",
+      "id": 1658836354867
+    }
+  ]
+}
