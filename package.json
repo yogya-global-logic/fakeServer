@@ -2,7 +2,23 @@
   "dependencies": {
     "json-server": "^0.17.0"
   },
+  "name": "fakeserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start":"json-server -p 3001 -w db.json"
-   }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogya-global-logic/fakeServer.git"
+  },
+  "author": "yogya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogya-global-logic/fakeServer/issues"
+  },
+  "homepage": "https://github.com/yogya-global-logic/fakeServer#readme",
+  "description": ""
 }
